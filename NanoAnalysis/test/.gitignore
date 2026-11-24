@@ -1,0 +1,8 @@
+# job bookkeeping and outputs (submit_phase2.py, merge_phase2.py, plot_*.py)
+input/
+Scr/
+out*/
+hadd_phase2/
+plots_phase2/
+__pycache__/
+*.root

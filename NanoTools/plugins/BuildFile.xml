@@ -1,0 +1,8 @@
+<library name="JMETriggerAnalysisNanoToolsPlugins" file="*.cc">
+  <flags EDM_PLUGIN="1"/>
+  <use name="DataFormats/HLTReco"/>
+  <use name="DataFormats/NanoAOD"/>
+  <use name="FWCore/Framework"/>
+  <use name="FWCore/ParameterSet"/>
+  <use name="FWCore/Utilities"/>
+</library>
